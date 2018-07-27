@@ -1,17 +1,10 @@
-update to 1 line.
 1		urano
 2		nakagiri
 3vugvyik
-=======
 1
-2		nak
+2
 3
-<<<<<<< HEAD
-4cds
-=======
->>>>>>> refs/remotes/origin/develop
 4
->>>>>>> refs/remotes/origin/develop
 5
 6
 7
@@ -19,4 +12,4 @@ update to 1 line.
 9
 10
 11
-12	金曜日
+12	金曜日gar
