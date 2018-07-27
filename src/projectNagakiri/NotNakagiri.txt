@@ -1,5 +1,5 @@
-1
-2
+1		urano
+2		nakagiri
 3
 4
 5
